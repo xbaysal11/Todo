@@ -1,0 +1,12 @@
+body{
+    padding: 50px;
+    /* background: rgb(159, 159, 255); */
+		font-family: sans-serif;
+		background-image: url("./img/img1.jpg");
+		background-size: cover;
+}
+
+#container {
+    display: flex;
+    justify-content: flex;
+}
